@@ -11,7 +11,7 @@ def square(func):
 
 
 # Декоратор, который сам может принимать аргументы
-
+'''Я сделаль'''
 
 def pow(power):
     def decorator(func):
